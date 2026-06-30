@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm **Prashanth Reddy** 👋
 
 ### Full Stack Developer | AWS Cloud Engineer | AI Enthusiast
